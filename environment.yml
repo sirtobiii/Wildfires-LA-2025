@@ -1,0 +1,13 @@
+name: sds-env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pygis
+  - geopy
+  - folium
+  - cartopy
+  - geodatasets
+  - contextily
+  - jenkspy
+prefix: /opt/miniconda3/envs/sds-env
